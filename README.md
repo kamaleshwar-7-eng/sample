@@ -48,7 +48,8 @@ Closed-loop configurations include:
 - Rf = **10 kΩ**
 
 ### CIRCUIT DIAGRAM  
-![Inverting Amplifier](https://github.com/user-attachments/assets/129bba09-8f38-427b-993c-c94abef92374)
+<img width="1024" height="1024" alt="16f514c8-b314-4ff4-9369-adcb29d97891" src="https://github.com/user-attachments/assets/e70c41c9-31b8-489a-8822-8fee0d937488" />
+
 
 ### MODEL GRAPH  
 ![Inverting Model Graph](https://github.com/user-attachments/assets/1836d120-768e-454f-bfe4-682ce70ea7a1)
@@ -58,8 +59,8 @@ Closed-loop configurations include:
 ## DESIGN
 
 A = –Rf / R1 = –10  
-R1 = 1 kΩ  
-Rf = 10 kΩ  
+R1 = 2 kΩ  
+Rf = 20 kΩ  
 
 ---
 
